@@ -1,6 +1,6 @@
 const quizData = [
   {
-    question: "How old is EEF?",
+    question: "Economic Freedom Fighters (EFF)?",
     a: "5 years old",
     b: "9 years old",
     c: "11 years old",
